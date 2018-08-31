@@ -7,6 +7,7 @@
 - Documentación http://www.qgis.org/en/docs/index.html
 - QGIS API Documentation https://qgis.org/api/
 - Repositorio de complementos ehttp://plugins.qgis.org/plugins/
+- GitHub https://github.com/qgis
 - Lista de correo http://qgis.org/en/site/forusers/support.html#mailing-lists
 - Lista en español http://osgeo-org.1560.x6.nabble.com/Quantum-GIS-f4099105.html
 - Grupos de usuarios https://qgis.org/en/site/forusers/usergroups.html#qgis-usergroups
@@ -20,22 +21,22 @@
 
 - QGIS Planet http://plugins.qgis.org/planet/
 - Free and Open Source GIS Ramblings. Anita Graser. http://anitagraser.com/ 
-- Blog de Nathan Woodrow. http://nathanw.net/ 
-- North Road
+- Nathan Woodrow. Developer, Python (Monty and code) fan. A blog mostly about QGIS stuff, but not always. http://nathanw.net/ 
+- North Road https://north-road.com/blog/
 - Kartoza. Open source geospatial solutions. http://kartoza.com/ 
 - IEQGIS. Ireland QGIS User Blog. https://ieqgis.wordpress.com/ 
 - nyalldawson.net Mapping, GIS, QGIS & MapBasic http://nyalldawson.net/
 - Geo Information. Tips and tutorials on working with GIS. https://infogeoblog.wordpress.com/ 
-- FaunaliaGIS https://faunaliagis.wordpress.com/ 
-- Processamento Digital. http://www.processamentodigital.com.br 
-- MappingGIS (español). http://mappinggis.com/?s=qgis
+- FaunaliaGIS https://faunaliagis.wordpress.com/category/qgis-2/
+- Processamento Digital. http://www.processamentodigital.com.br/tag/qgis/
+- Blog de MappingGIS. http://mappinggis.com/?s=qgis
 
-## GitHub
+## Repositorios GitHub
 - 
 
 ## Twitter
 - QGIS (@qgis) https://twitter.com/qgis
-- CQGIS España (@qgises) https://twitter.com/qgises
+- QGIS España (@qgises) https://twitter.com/qgises
 
 ## Facebook
 - QGIS-Quantum-GIS https://www.facebook.com/pages/QGIS-Quantum-GIS-/
