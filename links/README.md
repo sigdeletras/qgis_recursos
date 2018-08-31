@@ -28,7 +28,10 @@
 - Geo Information. Tips and tutorials on working with GIS. https://infogeoblog.wordpress.com/ 
 - FaunaliaGIS https://faunaliagis.wordpress.com/ 
 - Processamento Digital. http://www.processamentodigital.com.br 
-- MappingGIS (español). http://mappinggis.com/?s=qgis 
+- MappingGIS (español). http://mappinggis.com/?s=qgis
+
+## GitHub
+- 
 
 ## Twitter
 - QGIS (@qgis) https://twitter.com/qgis
