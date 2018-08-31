@@ -1,0 +1,4 @@
+<!DOCTYPE connections>
+	<qgsWMSConnections version="1.0">
+	    <wms ignoreGetMapURI="false" smoothPixmapTransform="false" dpiMode="7" password="" ignoreGetFeatureInfoURI="false" referer="" username="" url="http://wms.magrama.es/sig/Ganaderia/ComarcasGanaderas/wms.aspx" invertAxisOrientation="false" ignoreAxisOrientation="false" name="Ganadería - Comarcalización Ganadera - Comarcas Ganaderas"/>
+</qgsWMSConnections>

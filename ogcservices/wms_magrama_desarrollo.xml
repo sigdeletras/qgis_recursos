@@ -1,0 +1,6 @@
+<!DOCTYPE connections>
+	<qgsWMSConnections version="1.0">
+	    <wms ignoreGetMapURI="false" smoothPixmapTransform="false" dpiMode="7" password="" ignoreGetFeatureInfoURI="false" referer="" username="" url="http://wms.magrama.es/sig/DesarrolloRural/GruposAccionLocal/wms.aspx" invertAxisOrientation="false" ignoreAxisOrientation="false" name="Desarrollo Rural - Grupos de Acción Local"/>
+    <wms ignoreGetMapURI="false" smoothPixmapTransform="false" dpiMode="7" password="" ignoreGetFeatureInfoURI="false" referer="" username="" url="http://wms.magrama.es/sig/DesarrolloRural/PlanChoque/wms.aspx" invertAxisOrientation="false" ignoreAxisOrientation="false" name="Desarrollo Rural - Regadíos y Economía del Agua - Plan de Choque"/>
+    <wms ignoreGetMapURI="false" smoothPixmapTransform="false" dpiMode="7" password="" ignoreGetFeatureInfoURI="false" referer="" username="" url="http://wms.magrama.es/sig/DesarrolloRural/Regadios/wms.aspx" invertAxisOrientation="false" ignoreAxisOrientation="false" name="Desarrollo Rural - Regadíos y Economía del Agua - Regadíos"/>
+</qgsWMSConnections>
