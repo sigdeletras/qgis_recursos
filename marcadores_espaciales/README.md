@@ -1,6 +1,6 @@
 # Ejemplos de archivo XML con marcadores espaciales (qgis_bookmarks)
 
-'''
+```xml
 <!DOCTYPE qgis_bookmarks>
 <qgis_bookmarks>
   <bookmark>
@@ -24,4 +24,4 @@
     <sr_id>1007</sr_id>
   </bookmark>
 </qgis_bookmarks>
-'''
+```
