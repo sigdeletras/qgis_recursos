@@ -1,3 +1,3 @@
 # Recursos QGIS
 
-Colección de recursos de utilidad para los curos y el aprendizaje de QGIS
+Colección de recursos de utilidad para los cursos, conferencias y el aprendizaje de Sistema de Información Geográfico QGIS.
