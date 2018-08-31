@@ -49,6 +49,9 @@
 ## Youtube
 - YouTube https://www.youtube.com/results?search_query=qgis
 
+## Istagram
+- #qgis https://www.instagram.com/explore/tags/qgis/?hl=es
+
 ## Fliker
 - QGIS - Map Showcase https://www.flickr.com/groups/qgis/
 
