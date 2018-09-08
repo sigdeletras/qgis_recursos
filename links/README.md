@@ -10,6 +10,9 @@
 - GitHub https://github.com/qgis
 - Lista de correo http://qgis.org/en/site/forusers/support.html#mailing-lists
 - Lista en español http://osgeo-org.1560.x6.nabble.com/Quantum-GIS-f4099105.html
+- Lista de usuarios general en Nable: QGIS http://osgeo-org.1560.x6.nabble.com/QGIS-f4099105.html 
+- Lista de usuarios general en Nable: QGIS-Users http://osgeo-org.1560.x6.nabble.com/QGIS-User-f4125267.html 
+- Lista de usuarios en español en Nable: QGIS-es http://osgeo-org.1560.x6.nabble.com/QGIS-es-f5092059.html
 - Grupos de usuarios https://qgis.org/en/site/forusers/usergroups.html#qgis-usergroups
 - Asociación usuarios de QGIS España http://www.qgis.es/
 
