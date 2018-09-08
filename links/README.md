@@ -11,7 +11,12 @@
 - Lista de correo http://qgis.org/en/site/forusers/support.html#mailing-lists
 - Lista en español http://osgeo-org.1560.x6.nabble.com/Quantum-GIS-f4099105.html
 - Grupos de usuarios https://qgis.org/en/site/forusers/usergroups.html#qgis-usergroups
-- Asociación usuarios de QGIS España http://www.qgis.es/ 
+- Asociación usuarios de QGIS España http://www.qgis.es/
+
+## Instalación avanzada
+- OSGeoLive https://live.osgeo.org/es/
+- OSGeo4W https://www.osghttps://github.com/kartoza/docker-qgis-desktopeo.org/projects/osgeo4w/
+- Dockers para Linux https://github.com/kartoza/docker-qgis-desktop
 
 ## Foros
 - Foro de ayuda StackExchange http://gis.stackexchange.com/?tags=qgis
