@@ -35,6 +35,7 @@
 - FaunaliaGIS https://faunaliagis.wordpress.com/category/qgis-2/
 - Processamento Digital. http://www.processamentodigital.com.br/tag/qgis/
 - Blog de MappingGIS. http://mappinggis.com/?s=qgis
+- https://pigrecoinfinito.wordpress.com/
 
 ## Repositorios GitHub
 - 
