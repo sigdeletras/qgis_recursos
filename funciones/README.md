@@ -58,3 +58,14 @@ def vertices(values, feature, parent):
             count += len(ring)
     return count
  ```
+How to create custom functios in QGIS using the function editor  https://howtoinqgis.wordpress.com/2017/05/20/how-to-create-custom-functions-in-qgis-using-the-function-editor/
+
+```python
+@qgsfunction(args='auto', group='Custom')
+def factor_area(factor, feature, parent):
+    """ This function returns the area of the current geometry multiplied by a user-defined factor. """
+    geom_area = feature.geometry().area()
+    new_area = factor * geom_area
+    return new_area
+```
+
