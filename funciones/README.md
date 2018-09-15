@@ -69,3 +69,7 @@ def factor_area(factor, feature, parent):
     return new_area
 ```
 
+Best practices for writing Python QGIS Expression Functions http://www.opengis.ch/2017/05/10/best-practices-for-writing-python-qgis-expression-functions/
+
+
+
