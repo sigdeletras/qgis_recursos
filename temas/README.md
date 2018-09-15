@@ -48,10 +48,12 @@ https://github.com/sigdeletras/dxf2gmlcatastro
 - https://qgis.org/api/
 - QGIS Python API documentation project https://qgis.org/pyqgis/3.0
 - PyQGIS Developer Cookbook http://docs.qgis.org/testing/en/docs/pyqgis_developer_cookbook/ 
+- GeoAPIS http://geoapis.sourcepole.com/qgispyapi/
 - Curso Victor Olaya 2017
 
 - PyQGIS Talk / Workshop https://github.com/walkermatt/pyqgis-basics
 - PyQGIS samples https://webgeodatavore.github.io/pyqgis-samples/
+- How to in QGIS (Python sobre todo) https://howtoinqgis.wordpress.com/
 
 ## Diseño de mapas
 
@@ -77,6 +79,8 @@ Ejemplos de catálogos
 - IDEA http://ideandalucia.es/portal/web/ideandalucia/datos-y-servicios/catalogo-de-servicios
 - REDIAM http://laboratoriorediam.cica.es/geonetwork/srv/spa/search
 - MAGRAMA https://www.mapama.gob.es/es/cartografia-y-sig/ide/catalogo_metadatos/
+
+## Entrega de Proyectos SIG
 
 
 
