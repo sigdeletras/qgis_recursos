@@ -1,13 +1,15 @@
 #Funciones
 
-Algunos ejemplos de funciones Pyhton para usar dentro de expresione.
+Algunos ejemplos de funciones Pyhton para usar dentro de expresiones.
 
-- Primera aproximación al uso de las funciones propias con Python https://geoinnova.org/blog-territorio/funciones-qgis-empezando-con-python/
+**Hay que revisar la versión de la API. Segurmanete 2.* **
+
+Primera aproximación al uso de las funciones propias con Python https://geoinnova.org/blog-territorio/funciones-qgis-empezando-con-python/
 
 ```python
 ```
 
-- Using Custom Python Expression Functions https://www.qgistutorials.com/en/docs/custom_python_functions.html
+Using Custom Python Expression Functions https://www.qgistutorials.com/en/docs/custom_python_functions.html
 
 ```python
 import math
@@ -29,3 +31,30 @@ def GetUtmZone(value1, feature, parent):
     return '%d%s' % (int(zone_number), zone_letter)
 ````
 
+Function editor for QGIS expressions https://nathanw.net/2015/01/19/function-editor-for-qgis-expressions/
+
+User defined expression functions for QGIS https://nathanw.net/2012/11/10/user-defined-expression-functions-for-qgis/
+
+```python
+from qgis.utils import qgsfunction
+from qgis.core import QGis
+ 
+@qgsfunction(0, "Python")
+def vertices(values, feature, parent):
+    """
+        Returns the number of vertices for a features geometry
+    """
+    count = None
+    geom = feature.geometry()
+    if geom is None: return None
+    if geom.type() == QGis.Polygon:
+        count = 0
+        if geom.isMultipart():
+          polygons = geom.asMultiPolygon()
+        else:
+          polygons = [ geom.asPolygon() ]
+        for polygon in polygons:
+          for ring in polygon:
+            count += len(ring)
+    return count
+ ```
