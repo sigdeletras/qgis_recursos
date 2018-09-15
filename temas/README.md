@@ -30,6 +30,13 @@
 - Anaconda https://anaconda.org/anaconda/python
 - Bibliotecas https://pypi.org/search/?c=Topic+%3A%3A+Scientific%2FEngineering+%3A%3A+GIS
 - Essential Python Geospatial Libraries https://carsonfarmer.com/2013/07/essential-python-geo-libraries/
+- CARTO Python package for data scientists https://github.com/CartoDB/cartoframes
+- Introducing CARTOframes: A Python Interface for CARTO https://carto.com/blog/inside/CARTOframes-python-interface-CARTO/
+
+- wms2image.py Script de Python para obtener un conjunto de imágenes (GetMap) de un listado de servicios WMS a partir de un rectángulo geográfico definido mediante par de coordenadas UTM. https://github.com/sigdeletras/wms2image
+- clipShapesZip.py Script de Python para recortar capas shapes de una carpeta. https://github.com/sigdeletras/clipShapesZip
+- dxf2gmlcatastro.py Script Python para convertir DXF al GML de Parcela Catastral según el estándar de la Dirección General de Catastro.
+https://github.com/sigdeletras/dxf2gmlcatastro
 
 
 ## Diseño
