@@ -4,12 +4,12 @@ Algunos ejemplos de funciones Pyhton para usar dentro de expresione.
 
 - Primera aproximación al uso de las funciones propias con Python https://geoinnova.org/blog-territorio/funciones-qgis-empezando-con-python/
 
-'''
+```python
+```
 
-'''
 - Using Custom Python Expression Functions https://www.qgistutorials.com/en/docs/custom_python_functions.html
 
-'''python
+```python
 import math
 from qgis.core import *
 from qgis.gui import *
@@ -27,4 +27,5 @@ def GetUtmZone(value1, feature, parent):
         zone_letter = 'S'
 
     return '%d%s' % (int(zone_number), zone_letter)
-  '''
+````
+
