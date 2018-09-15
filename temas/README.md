@@ -26,7 +26,6 @@
 - GeoPyhton https://github.com/geopython
 - Python GDAL/OGR Cookbook! https://pcjericks.github.io/py-gdalogr-cookbook/#
 - Wikipedia Pyhton https://es.wikipedia.org/wiki/Python
-- QGIS Python API documentation project https://qgis.org/pyqgis/3.0
 - Anaconda https://anaconda.org/anaconda/python
 - Bibliotecas https://pypi.org/search/?c=Topic+%3A%3A+Scientific%2FEngineering+%3A%3A+GIS
 - Essential Python Geospatial Libraries https://carsonfarmer.com/2013/07/essential-python-geo-libraries/
@@ -38,10 +37,46 @@
 - dxf2gmlcatastro.py Script Python para convertir DXF al GML de Parcela Catastral según el estándar de la Dirección General de Catastro.
 https://github.com/sigdeletras/dxf2gmlcatastro
 
+- ¿Por qué Python es el futuro del Web GIS? https://www.cursosgis.com/por-que-python-es-el-futuro-del-web-gis/
+- Sobre Python, módulos espaciales, programas SIG y controversias http://geotux.tuxfamily.org/index.php/geo-blogs/item/318-sobre-python-modulos-espaciales-programas-sig-y-controversias
+- Programación y SIG ¿por dónde empezar? https://geoinnova.org/blog-territorio/programacion-sig-donde-empezar/
+- Ventajas de Python al trabajar con SIG https://imasgal.com/ventajas-python-al-trabajar-sig/
+- ¿Qué es Python? https://desktop.arcgis.com/es/arcmap/latest/analyze/python/what-is-python-.htm
 
-## Diseño
+## PyQGIS
+
+- https://qgis.org/api/
+- QGIS Python API documentation project https://qgis.org/pyqgis/3.0
+- PyQGIS Developer Cookbook http://docs.qgis.org/testing/en/docs/pyqgis_developer_cookbook/ 
+- Curso Victor Olaya 2017
+
+- PyQGIS Talk / Workshop https://github.com/walkermatt/pyqgis-basics
+- PyQGIS samples https://webgeodatavore.github.io/pyqgis-samples/
+
+## Diseño de mapas
+
+- Conceptos cartográficos http://www.ign.es/web/resources/cartografiaEnsenanza/conceptosCarto/descargas/Conceptos_Cartograficos_def.pdf
+- QGIS Map showcase htps://www.flickr.com/groups/2244553@N22/
+
 
 ## Metadatos
+
+- ISO 19115-1:2014 https://www.iso.org/standard/53798.html
+- ISO 19115-2:2009 https://www.iso.org/standard/39229.html
+- Núcleo Español de Metadatos de Datos (NEM) http://metadatos.ign.es/web/guest/nem
+- ISO 19115‐1:2014 – Metadatos‐Parte 1: Fundamentos https://metadatos.ign.es/MD-theme/documentos/ResumenISO19115_1.pdf
+- CatMDEdit OpenSource Project http://catmdedit.sourceforge.net/
+- Metadata Editor INSPIRE Geoportal http://inspire-geoportal.ec.europa.eu/editor/
+- GeoNetwork https://geonetwork-opensource.org/
+- Normas Técnicas Cartográficas de Andalucía https://www.juntadeandalucia.es/institutodeestadisticaycartografia/ieagen/sea/ntca/estado.htm
+- Metatools (QGIS) https://plugins.qgis.org/plugins/metatools/
+
+Ejemplos de catálogos
+
+- IDEE http://www.idee.es/csw-inspire-idee/srv/eng/catalog.search#/home
+- IDEA http://ideandalucia.es/portal/web/ideandalucia/datos-y-servicios/catalogo-de-servicios
+- REDIAM http://laboratoriorediam.cica.es/geonetwork/srv/spa/search
+- MAGRAMA https://www.mapama.gob.es/es/cartografia-y-sig/ide/catalogo_metadatos/
 
 
 
