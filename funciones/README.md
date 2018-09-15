@@ -1,4 +1,4 @@
-#Funciones
+# Funciones
 
 Algunos ejemplos de funciones Pyhton para usar dentro de expresiones.
 
