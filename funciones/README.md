@@ -2,7 +2,7 @@
 
 Algunos ejemplos de funciones Pyhton para usar dentro de expresiones.
 
-**Hay que revisar la versión de la API. Segurmanete 2.* **
+**Hay que revisar la versión de la API. Seguramente **
 
 Primera aproximación al uso de las funciones propias con Python https://geoinnova.org/blog-territorio/funciones-qgis-empezando-con-python/
 
