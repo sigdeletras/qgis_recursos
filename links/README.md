@@ -39,6 +39,7 @@
 - Processamento Digital. http://www.processamentodigital.com.br/tag/qgis/
 - Blog de MappingGIS. http://mappinggis.com/?s=qgis
 - https://pigrecoinfinito.wordpress.com/
+- How to in QGIS (Python sobre todo)  https://howtoinqgis.wordpress.com/
 
 ## Repositorios GitHub
 - 
