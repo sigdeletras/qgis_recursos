@@ -40,6 +40,7 @@
 - Blog de MappingGIS. http://mappinggis.com/?s=qgis
 - https://pigrecoinfinito.wordpress.com/
 - How to in QGIS (Python sobre todo)  https://howtoinqgis.wordpress.com/
+- El blog de franz https://acolita.com/category/sig/qgis/
 
 ## Repositorios GitHub
 - 
@@ -63,7 +64,7 @@
 ## Youtube
 - YouTube https://www.youtube.com/results?search_query=qgis
 
-## Istagram
+## Instagram
 - #qgis https://www.instagram.com/explore/tags/qgis/?hl=es
 
 ## Fliker
