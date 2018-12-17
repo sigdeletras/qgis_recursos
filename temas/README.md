@@ -9,7 +9,13 @@
 - Iniciativa GeoWE software orientado a la edición de Información Geográfica en Web http://www.geowe.org/
 - Visor de archivos GeoJSON http://geojson.io
 
-## Base de datos
+## Interfaz
+
+## Datos Vectoriales
+
+## Sistema de Coordenadas
+
+## Base de datos geográficas
 - Documentación QGIS 2-18 Expresiones https://docs.qgis.org/2.18/en/docs/user_manual/working_with_vector/expression.html
 - Ayuda Calculadora de Campos http://hfcqgis.opendatasicilia.it/it/latest/calcolatore_campi/concetti.html
 - W3Schools SQL https://www.w3schools.com/sql/default.asp
@@ -19,8 +25,26 @@
 - SpatiaLite https://www.gaia-gis.it/fossil/libspatialite
 - SIGdeletras Trabajando con Spatialite http://www.sigdeletras.com/2014/trabajando-con-spatialite/ 
 
-## Análisis
--
+## Análisis vectorial
+
+## Topología
+
+## Datos Ráster
+
+## Análisis ráster
+
+## LiDAR
+
+## Simbología/Etiquetado
+
+## Diseño de mapas
+
+- Conceptos cartográficos http://www.ign.es/web/resources/cartografiaEnsenanza/conceptosCarto/descargas/Conceptos_Cartograficos_def.pdf
+- QGIS Map showcase htps://www.flickr.com/groups/2244553@N22/
+
+## Web
+
+## pgRouting
 
 ## Python
 - GeoPyhton https://github.com/geopython
@@ -54,12 +78,6 @@ https://github.com/sigdeletras/dxf2gmlcatastro
 - PyQGIS Talk / Workshop https://github.com/walkermatt/pyqgis-basics
 - PyQGIS samples https://webgeodatavore.github.io/pyqgis-samples/
 - How to in QGIS (Python sobre todo) https://howtoinqgis.wordpress.com/
-
-## Diseño de mapas
-
-- Conceptos cartográficos http://www.ign.es/web/resources/cartografiaEnsenanza/conceptosCarto/descargas/Conceptos_Cartograficos_def.pdf
-- QGIS Map showcase htps://www.flickr.com/groups/2244553@N22/
-
 
 ## Metadatos
 
