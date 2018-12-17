@@ -10,7 +10,8 @@
 - Visor de archivos GeoJSON http://geojson.io
 
 ## Interfaz
-
+- #24daysofQGIS https://twitter.com/hashtag/24daysofQGIS?src=hash&lang=es
+- 2018-10 QGIS 3.4: novedades de una LTR a la altura de las expectativas https://mappinggis.com/2018/10/qgis-3-4-las-novedades-de-una-ltr-a-la-altura-de-las-expectativas/
 ## Datos Vectoriales
 
 ## Sistema de Coordenadas
