@@ -107,6 +107,9 @@ Calcula la superficie en km²  de la provincia (sum)
 sum($area*0.000001)
 ```
 Calcula la densidad de población en km²  de la provincia.
+```
+mean(pop18/($area*0.000001))
+```
 
 Selecciona el municipio con el área menor por zonas POTA
 ```
