@@ -4,12 +4,13 @@ Ayuda
 https://docs.qgis.org/2.18/en/docs/user_manual/working_with_vector/expression.html 
 
 ## Operadores matemáticos
-
-• 125862 +586215
-• 5805 * 4.5
-• 25897/489
-• 1528^3 
-• sqrt(458 )
+```
+125862 +586215
+5805 * 4.5
+25897/489
+1528^3 
+sqrt(458 )
+```
 
 ## Funciones con cadenas
 ```
@@ -37,27 +38,41 @@ Busca el topónimo “caseta la mechuga” en la capa “nombres_geográficos”
 ```
 
 Realiza la misma búsqueda con el operador ILIKE ¿El resultado es el mismo?
-```"etiqueta"  ILIKE 'Caseta la Mechuga'```
+```
+"etiqueta"  ILIKE 'Caseta la Mechuga'
+```
 
 Busca todos los nombres que empiezan con Barranco
-```"etiqueta" like 'Barranco%'```
+```
+"etiqueta" like 'Barranco%'
+```
 
 Busca los nombres que terminen con ‘Alto’
-```"etiqueta"  LIKE '%Alto'```
+```
+"etiqueta"  LIKE '%Alto'
+```
 
 Busca los nombres que empiecen por Barranco y que terminen por Fuente
-```"etiqueta"  LIKE 'Barranco%' and   "etiqueta"  LIKE '%Fuente' ```
+```
+"etiqueta"  LIKE 'Barranco%' and   "etiqueta"  LIKE '%Fuente' 
+```
 
 Busca los nombres que empicen por Cerro o por Corona
-```"etiqueta"  LIKE 'Cerro%'  or  "etiqueta"  LIKE 'Corona%'```
+```
+"etiqueta"  LIKE 'Cerro%'  or  "etiqueta"  LIKE 'Corona%'
+```
 
 Busca los nombres que contenganpor Fuente pero no sean de tipo Rural
-```"etiqueta"  LIKE '%Fuente%'  and not "ruralurban"   LIKE  'R' ```
+```
+"etiqueta"  LIKE '%Fuente%'  and not "ruralurban"   LIKE  'R' 
+```
 
 ## Funciones de geometría
 
 Selecciona los municipios con una superfie (m²) inferior o igual a la media.
-```$area <= mean($area)```
+```
+$area <= mean($area)
+```
 
 Genera las columnas virtuales xcent e ycent  de tipo numérico decimal que tenga el centroide ($centroid) de cada municipio.
 ```
@@ -65,14 +80,17 @@ x(centroid($geometry))
 y(centroid($geometry))
 ```
 Crea los campos  virtuales latitud y longitud con las coordenadas geográficas de cada uno de los puntos. Recuerda que van a ser valores numéricos con decimales.
-```x(transform( $geometry, 'EPSG:25830', 'EPSG:4258' ))
+```
+x(transform( $geometry, 'EPSG:25830', 'EPSG:4258' ))
 y(transform( $geometry, 'EPSG:25830', 'EPSG:4258' ))
 ```
 
 ## Operador de concatenación
 
 • Nombre del municipio, la provincia entre paréntesis y la densidad de población preceda del texto “Densidad: “ en indicando que el datos está en km². Usa el operador concatenación (||)  para añadir campos y texto. Los textos auxiliares se añaden entre comillas simples.
- ```"d_muni_ine"  || ' (' ||  "provincia" || ') Densidad: ' ||  "pop18"   || ' km2'```
+ ```
+ "d_muni_ine"  || ' (' ||  "provincia" || ') Densidad: ' ||  "pop18"   || ' km2'
+ ```
 
 ## Condional
 
@@ -85,11 +103,17 @@ END
 ```
 ## Funciones de agregación (sum, group_by)
 Calcula la superficie en km²  de la provincia (sum)
-```sum($area*0.000001)```
+```
+sum($area*0.000001)
+```
 Calcula la densidad de población en km²  de la provincia.
 
 Selecciona el municipio con el área menor por zonas POTA
-```$area =  minimum( $area, group_by:= "zonapota")```
+```
+$area =  minimum( $area, group_by:= "zonapota")
+```
 
 Campo  virtual del porcentaje de superficie del municipio respecto al total de la provincia. El campo solo debe tener dos decimales.
-```round(($area / sum( $area ))*100,2)``
+```
+round(($area / sum( $area ))*100,2)
+```
