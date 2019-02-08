@@ -18,7 +18,7 @@
 
 ## Novedades
 
-- Changeog https://qgis.org/en/site/forusers/visualchangelogs.html
+- Changelog https://qgis.org/en/site/forusers/visualchangelogs.html
 
 ## Instalación avanzada
 
