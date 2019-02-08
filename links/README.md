@@ -16,7 +16,12 @@
 - Grupos de usuarios https://qgis.org/en/site/forusers/usergroups.html#qgis-usergroups
 - Asociación usuarios de QGIS España http://www.qgis.es/
 
+## Novedades
+
+- Changeog https://qgis.org/en/site/forusers/visualchangelogs.html
+
 ## Instalación avanzada
+
 - OSGeoLive https://live.osgeo.org/es/
 - OSGeo4W https://www.osghttps://github.com/kartoza/docker-qgis-desktopeo.org/projects/osgeo4w/
 - Dockers para Linux https://github.com/kartoza/docker-qgis-desktop
