@@ -1,7 +1,9 @@
+# Expresiones
 
-Ayuda
+## Ayuda
 
-https://docs.qgis.org/2.18/en/docs/user_manual/working_with_vector/expression.html 
+- https://docs.qgis.org/2.18/en/docs/user_manual/working_with_vector/expression.html 
+- HfcQGIS: Help funzioni calcolatore di campi di QGIS http://hfcqgis.opendatasicilia.it/it/latest/ 
 
 ## Operadores matemáticos
 ```
