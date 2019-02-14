@@ -81,10 +81,28 @@ Genera las columnas virtuales xcent e ycent  de tipo numérico decimal que tenga
 x(centroid($geometry))
 y(centroid($geometry))
 ```
+
 Crea los campos  virtuales latitud y longitud con las coordenadas geográficas de cada uno de los puntos. Recuerda que van a ser valores numéricos con decimales.
 ```
 x(transform( $geometry, 'EPSG:25830', 'EPSG:4258' ))
 y(transform( $geometry, 'EPSG:25830', 'EPSG:4258' ))
+```
+
+Etiquetado GMS
+```
+'lon :' || floor($x)
+|| '° ' || 
+floor( ($x - floor($x))*60) 
+||''' '|| 
+format_number( 
+to_real((($x - floor($x))*60) -floor((($x - floor($x))*60 )))*60 ,2)||'" E'
+|| '_' || 
+'lat :' || floor($y)
+|| '° ' || 
+floor( ($y - floor($y))*60) 
+||''' '|| 
+format_number( 
+to_real((($y - floor($y))*60) -floor((($y - floor($y))*60 )))*60 ,2) ||'" N'
 ```
 
 ## Operador de concatenación
