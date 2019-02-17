@@ -140,3 +140,12 @@ Campo  virtual del porcentaje de superficie del municipio respecto al total de l
 ```
 round(($area / sum( $area ))*100,2)
 ```
+## Expresiones regulares
+
+Valida referencia catastral 14 caracteres
+
+```
+regexp_match("refcat", '^[0-9]{7}[A-Z]{2}[0-9]{4}[N|S]$' )
+```
+
+
