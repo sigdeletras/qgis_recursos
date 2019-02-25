@@ -27,6 +27,9 @@
 - SIGdeletras Trabajando con Spatialite http://www.sigdeletras.com/2014/trabajando-con-spatialite/ 
 
 ## Análisis vectorial
+- QGIS algorithm provider https://docs.qgis.org/testing/en/docs/user_manual/processing_algs/qgis/index.html
+- GDAL algorithm provider https://docs.qgis.org/testing/en/docs/user_manual/processing_algs/gdal/index.html#gdal-algorithm-provider
+- 
 
 ## Topología
 
