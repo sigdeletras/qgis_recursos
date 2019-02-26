@@ -82,6 +82,7 @@ https://github.com/sigdeletras/dxf2gmlcatastro
 - PyQGIS Talk / Workshop https://github.com/walkermatt/pyqgis-basics
 - PyQGIS samples https://webgeodatavore.github.io/pyqgis-samples/
 - How to in QGIS (Python sobre todo) https://howtoinqgis.wordpress.com/
+- https://github.com/All4Gis/QGIS-cheat-sheet/blob/master/QGIS3.md
 
 ## Metadatos
 
