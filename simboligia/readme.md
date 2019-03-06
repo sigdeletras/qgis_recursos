@@ -3,6 +3,8 @@
 
 Etiquetado/simbología según expresiones (ej. curvasde nivel /contours)
 
+[https://gis.stackexchange.com/questions/121585/choosing-only-one-contour-line-to-label-in-qgis](https://gis.stackexchange.com/questions/121585/choosing-only-one-contour-line-to-label-in-qgis)
+
 ```
  // select contours at vertical intervals of 50 metres
   ("z" % 50) = 0
@@ -28,4 +30,10 @@ WHEN Elevation / 50 - floor(Elevation / 50) = 0 THEN
 ELSE 
     0.1 
 END
+```
+
+```
+(step 100m)
+"ELEV" LIKE '%00'  
+"ELEV" LIKE '%00' OR "ELEV" LIKE '%50' (step 50m) or "ELEV" LIKE '%0' (step 10m)
 ```
