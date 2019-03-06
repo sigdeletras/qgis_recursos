@@ -37,3 +37,7 @@ END
 "ELEV" LIKE '%00'  
 "ELEV" LIKE '%00' OR "ELEV" LIKE '%50' (step 50m) or "ELEV" LIKE '%0' (step 10m)
 ```
+
+Placing elevation numbers on contours with uphill orientation and position in QGIS
+
+[https://gis.stackexchange.com/questions/26702/placing-elevation-numbers-on-contours-with-uphill-orientation-and-position-in-qg](https://gis.stackexchange.com/questions/26702/placing-elevation-numbers-on-contours-with-uphill-orientation-and-position-in-qg)
