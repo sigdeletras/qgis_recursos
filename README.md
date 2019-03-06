@@ -5,3 +5,4 @@ Colección de recursos de utilidad para los cursos, conferencias y el aprendizaj
 - [Enlaces](links)
 - [Temas](temas)
 - [Funciones python](funciones)
+- [#QGISUserConf2019](QGISUserConf2019)
