@@ -12,4 +12,4 @@
 
 ## Workshop
 - "Data Visualization QGIS data and materials" Kurt Menke [link](https://drive.google.com/file/d/1TNqZowEsx1VHds-XpDGV-UvznA9sWYQk/view)
-- 
+- https://github.com/carolinux/londonwald/blob/master/presentation_qgis_a_coruna.pdf
