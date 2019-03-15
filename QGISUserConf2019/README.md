@@ -1,11 +1,14 @@
 # Recursos, materiales y charlas de #QGISUserConf2019
 
-https://spatialthoughts.com/2019/03/08/qgis-user-conference-2019/
-
-
+## Web oficiales
 - Web [https://2019.qgis.es/](https://2019.qgis.es/)
 - Hashtag [#QGISUserConf2019](https://twitter.com/search?f=tweets&vertical=default&q=%23QGISUserConf2019)
 - QGIS User Conference A Coruña - [Talks, Workshops and Demos List](https://docs.google.com/spreadsheets/d/1jscFi1QmcaaHmc6XmvbKMXkg9vWyQ8OttmMnkC9QLr0/edit#gid=1257947789)
+
+## Entradas sobre el evento
+- https://spatialthoughts.com/2019/03/08/qgis-user-conference-2019/
+- CONFERENCIA INTERNACIONAL DE USUARIOS DE QGIS – A CORUÑA, 2019 https://www.unigis.es/conferencia-internacional-usuarios-qgis-coruna-2019/
+
 
 ## Conference
 
