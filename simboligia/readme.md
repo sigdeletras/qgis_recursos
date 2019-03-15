@@ -1,5 +1,11 @@
 # Simbología y etiquetado
 
+## Enlaces
+- Generación de cartográmas https://www.unigis.es/crear-cartogramas-qgis/
+- Etiquetado basado en geometría. https://gitlab.com/GIS-projects/qgis-geometry-generator-examples
+
+
+## Código
 
 Etiquetado/simbología según expresiones (ej. curvasde nivel /contours)
 
