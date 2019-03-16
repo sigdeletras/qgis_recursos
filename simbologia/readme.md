@@ -47,3 +47,26 @@ END
 Placing elevation numbers on contours with uphill orientation and position in QGIS
 
 [https://gis.stackexchange.com/questions/26702/placing-elevation-numbers-on-contours-with-uphill-orientation-and-position-in-qg](https://gis.stackexchange.com/questions/26702/placing-elevation-numbers-on-contours-with-uphill-orientation-and-position-in-qg)
+
+## Unidades para simbología/etiquetado
+- Podemos usar milímetros, puntos, píxeles y pulgadas si queremos simbología dinámica que se ajuste según las escalas
+cada una de ellas tiene su tamaño (lógico) no es lo mismos un etiquetado a 4 milímetros que a 4 puntos...
+- si queremos trabajar con etiquetado estático podemos usar las unidades unidades de mapa o metros a escala. Estas van a coincidir si las unidades de nuestro mapa son metros Imagino que cambiarán si usamos src en unidades geográficas
+
+La simbología/etiquetado en estas unidades es fija con independencia de la escala
+
+Con este sistema nos acercamos más a lo que sería un etiquetado tipo CAD. Perdemos dinamismo en la vista de mapa pero nos aseguramos el tamaño en las composiciones
+
+Equivalencia 
+- 1 punto son 0,353 mm.
+- 1 pulgada son 2,54 cm.
+
+| pt  |  px |
+|---|---|
+|  2 | 4  |
+|  3 | 5  |
+|  4 |  6 |
+|  5 |  7 |
+
+https://reeddesign.co.uk/test/points-pixels.html
+
