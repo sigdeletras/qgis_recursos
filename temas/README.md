@@ -41,10 +41,17 @@
 
 ## Simbología/Etiquetado
 
+## Estadística
+- Data Plotly para generar gráficos interactivos en QGIS  http://www.geomapik.com/analisis-gis/data-plotly-plugin-generar-graficos-interactivos-qgis/
+- Tutorial de Exploración de Datos con Datos Plotly con QGIS 3
+- Data exploration with Data Plotly for QGIS3 https://anitagraser.com/2017/12/06/data-exploration-with-data-plotly-for-qgis3/
+- Generando Gráficos con Data Plotly en QGIS 3 https://carbajallosa.blogspot.com/2017/08/generando-graficos-con-data-plotly-en.html
+
 ## Diseño de mapas
 
 - Conceptos cartográficos http://www.ign.es/web/resources/cartografiaEnsenanza/conceptosCarto/descargas/Conceptos_Cartograficos_def.pdf
-- QGIS Map showcase htps://www.flickr.com/groups/2244553@N22/
+- QGIS Map showcase htps://www.flickr.com/groups/2244553@N22/ http://gidahatari.com/ih-es/tutorial-de-exploracion-de-datos-con-datos-plotly-con-qgis-3
+- 
 
 ## Web
 
