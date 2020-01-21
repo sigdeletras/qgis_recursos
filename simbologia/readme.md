@@ -1,6 +1,10 @@
 # Simbología y etiquetado
 
 ## Enlaces
+- Taller "Pedro-Juan Ferrer (https://twitter.com/vehrka) "Vuestros mapas son feos y no sabéis por qué"
+ - https://tus-mapas-son-feos.readthedocs.io/es/develop/
+ - https://geoinquietosvlc.github.io/tus_mapas_son_feos/
+ - https://github.com/geoinquietosvlc/tus_mapas_son_feos
 - Generación de cartográmas https://www.unigis.es/crear-cartogramas-qgis/
 - Etiquetado basado en geometría. https://gitlab.com/GIS-projects/qgis-geometry-generator-examples
 
