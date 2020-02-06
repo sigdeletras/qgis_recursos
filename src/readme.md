@@ -19,3 +19,4 @@ Explicación
 ### Enlaces de interés
 
 - https://www.cursosgis.com/re-proyeccion-de-capas-empleando-la-rejilla-ntv2/
+- https://mappinggis.com/2015/03/como-transformar-de-ed50-a-etrs89-en-qgis-con-ntv2/
