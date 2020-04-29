@@ -55,7 +55,8 @@
 
 ## Web
 
-## pgRouting
+## Redes pgRouting
+- Segementación dinámica https://www.unigis.es/segmentacion-dinamica-con-qgis-lrs/
 
 ## Python
 - GeoPyhton https://github.com/geopython
