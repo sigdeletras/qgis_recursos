@@ -52,6 +52,7 @@
 - Conceptos cartográficos http://www.ign.es/web/resources/cartografiaEnsenanza/conceptosCarto/descargas/Conceptos_Cartograficos_def.pdf
 - QGIS Map showcase htps://www.flickr.com/groups/2244553@N22/ http://gidahatari.com/ih-es/tutorial-de-exploracion-de-datos-con-datos-plotly-con-qgis-3
 - Atlas y gráficos estadísticos Vídeo [Create an Atlas of Subcatchments with Pie Charts showing Land Cover Distribution](https://www.youtube.com/watch?v=-8ltch2ZQjo)
+- Map frame circular [How to create round maps in Print Composer](https://anitagraser.com/2016/05/01/how-to-create-round-maps-in-print-composer/)
 
 ## Web
 
