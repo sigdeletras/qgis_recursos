@@ -46,6 +46,7 @@
 - Tutorial de Exploración de Datos con Datos Plotly con QGIS 3
 - Data exploration with Data Plotly for QGIS3 https://anitagraser.com/2017/12/06/data-exploration-with-data-plotly-for-qgis3/
 - Generando Gráficos con Data Plotly en QGIS 3 https://carbajallosa.blogspot.com/2017/08/generando-graficos-con-data-plotly-en.html
+-Criação de Gráficos Interativos com o plugin DataPlotly https://www.qgis.pt/criacao-de-graficos-interativos-com-o-plugin-dataplotly/
 
 ## Diseño de mapas
 
