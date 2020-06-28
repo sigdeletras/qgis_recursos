@@ -7,6 +7,7 @@
  - https://github.com/geoinquietosvlc/tus_mapas_son_feos
 - Generación de cartográmas https://www.unigis.es/crear-cartogramas-qgis/
 - Etiquetado basado en geometría. https://gitlab.com/GIS-projects/qgis-geometry-generator-examples
+- QGIS-Legend-Patches Simbolos personalizados. Opción para 3.14 https://github.com/kartoza/QGIS-Legend-Patches
 
 
 ## Código
